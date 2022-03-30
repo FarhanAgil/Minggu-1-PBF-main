@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Namabarang": "casing hp one piece 1",
+      "Harga": "Rp.10000",
+      "Deskripsi" : "casing hp untuk iphone 6/7/8 ",
+      "Image":"https://i.pinimg.com/564x/0a/de/6f/0ade6f1d42de279da9fec37c1da5cc41.jpg"
+      
+
+    },
+      {
+        "id": 2,
+        "Namabarang": "casing hp one piece 2",
+        "Harga": "Rp.10000",
+        "Deskripsi" : "casing hp untuk iphone x/xr/11/promax ",
+        "Image":"https://i.pinimg.com/736x/fd/da/bb/fddabb6ab9316e1832e7d19a42c1c60d.jpg"
+        
+  
+      },
+      {
+        "id": 3,
+        "Namabarang": "casing hp one piece 3",
+        "Harga": "Rp.10000",
+        "Deskripsi" : "casing hp untuk iphone Android",
+        "Image":"https://i.pinimg.com/564x/b6/2a/77/b62a77861234ccf1cdb2e6848e9cc041.jpg"
+        
+  
+      },
+      {
+        "id": 4,
+        "Namabarang": "casing hp naruto 1",
+        "Harga": "Rp.10000",
+        "Deskripsi" : "casing hp untuk iphone 6/7/8",
+        "Image":"https://i.pinimg.com/736x/07/29/77/07297778ee744323c40102ea652fda79.jpg"
+      },
+      {
+        "id": 5,
+        "Namabarang": "casing hp naruto 2",
+        "Harga": "Rp.10000",
+        "Deskripsi" : "casing hp untuk iphone x/xr/11/promax",
+        "Image":"https://i.pinimg.com/736x/d4/cf/b2/d4cfb2573143a933e9076bdeda85423b.jpg"
+      },
+      {
+        "id": 6,
+        "Namabarang": "casing hp naruto 3",
+        "Harga": "Rp.10000",
+        "Deskripsi" : "casing hp untuk iphone android",
+        "Image":"https://i.pinimg.com/736x/03/14/38/031438f181bef064d380332445ea63d7.jpg"
+      },
+      {
+        "id": 7,
+        "Namabarang": "casing hp hunterxhunter 1",
+        "Harga": "Rp.10000",
+        "Deskripsi" : "casing hp untuk iphone 6/7/8",
+        "Image":"https://i.pinimg.com/736x/c5/b9/2c/c5b92c58e047635727e5b69f737c0b5c.jpg"
+      },
+      {
+        "id": 8,
+        "Namabarang": "casing hp hunterxhunter 2",
+        "Harga": "Rp.10000",
+        "Deskripsi" : "casing hp untuk iphone x/xr/11/promax",
+        "Image":"https://i.pinimg.com/564x/d3/c7/5a/d3c75af8e49c2f77f93025d9fca5b9b1.jpg"
+      },
+      {
+        "id": 9,
+        "Namabarang": "casing hp hunterxhunter",
+        "Harga": "Rp.10000",
+        "Deskripsi" : "casing hp untuk iphone android",
+        "Image":"https://i.pinimg.com/736x/0f/93/dc/0f93dcceb433f597e292a9112b1122f7.jpg"
+      }      
+
+  ]
+}
