@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nim": "1941720204",
+      "alamat": "Jl. Sigura-gura barat no 43Kota Malang - Jawa Timur",
+      "hp": "081252137093",
+      "angkatan": "2019",
+      "status": "Aktif",
+      "nama": "Moch Farchan Agil"
+    },
+    {
+      "id": 1648052657088,
+      "nim": "1411414141",
+      "alamat": "lol ",
+      "hp": "0023131112",
+      "angkatan": "2019",
+      "status": "Lulus",
+      "nama": "agil"
+    }
+  ]
+}
