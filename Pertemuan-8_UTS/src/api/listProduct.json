@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://i.pinimg.com/564x/59/ed/1c/59ed1c57750cc65f8c9453777ba9664a.jpg",
+            "nama": "Samsung universe 2 refrigator |dual Door and Digital Controls | Stainless Steel, Extra Large",
+            "harga": 2999999,
+            "stok": 5
+        },
+        {
+            "id": 2,
+            "image": "https://m.media-amazon.com/images/I/61+43l0bQ+L._AC_UL320_.jpg",
+            "nama": "Winia WTE21GSBCD 21 Cu. Ft. Top Mount Refrigerator - Black",
+            "harga": 3999000,
+            "stok": 4
+        },
+        {
+            "id": 3,
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51GOGq3iCXS.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+            "nama": "Galanz GLR16FWED08 3 French Door Refrigerator with Bottom Freezer & Adjustable Thermostat, 16 Cu.Ft, White",
+            "harga": 2999000,
+            "stok": 7
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/I/61xUTzIx7fL._AC_SY741_.jpg",
+            "nama": "Kenmore 30 Top-Freezer Refrigerator with Ice Maker and 18 Cubic Ft. Total Capacity, White",
+            "harga": 4999000,
+            "stok": 4
+        },
+        {
+            "id": 5,
+            "image": "https://m.media-amazon.com/images/I/616yULWKN9L._AC_SY741_.jpg",
+            "nama": "FRIGIDAIRE EFR756-RED EFR756, 2 Door Apartment Size Retro Refrigerator with Top Freezer, Chrome Handles, 7.5 cu ft, red",
+            "harga": 3399000,
+            "stok": 8
+        },
+        {
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/I/61LeYPItgCL._AC_SL1500_.jpg",
+            "nama": "Kenmore 33 Top-Freezer Refrigerator with 21 Cubic Ft. Total Capacity, Stainless Steel",
+            "harga": 2799000,
+            "stok": 9
+        }
+    ]
+}
